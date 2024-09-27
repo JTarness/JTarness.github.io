@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Spec from '../components/Spec.astro';
+
+const pageTitle = "Tarness Tech";
+
+const pyDesc = "Python is my first and favorite programming language. I like it for any general use programs that I create (cmdline or gui).My main use for python like most people is data science. Python is great for getting data(request library/good api coverage), manipulating data(pandas dataframes/ builtin generators), visualizing(matplotlib),and creating machine learning/deep learning models(scikit-learn. pytorch, tensorflow).";
+const jsDesc = "JavaScript is the langauge of the web, and should only be used as such. Since I do a good amount of web dev, I have become customed to it. It is a pretty divesive/controversial langauge, but I am extremly indiffrent to it. In the browser or use as a frontend it does its job well. My problem is when the language tries to expand to other areas in programming.";
+const posixDesc = "My foundation in tech is in Linux, thus I've learned how create posix compliant scripts. Posix scripts are done in shell/bash/or even zsh which I prefer as my main command line shell. One of the reasons I love Linux and unix-like os's is the automation power of different tasks. I always reconmend novice programmers learn how use Linux and script in POSIX ";
+const cDesc = "I consider C the latin of programming languages because C has influenced most of modern programming languages and programming itself. Anyone who serously wants to become great at programming or get paid to program should know C. Learning C will help learn and understand other languages must easier.";
+const rsDesc = "Rust is the hot new language and it definitly derserves the rep. It is a low level language that is dethroing C++ with rich memeory safe features. Rust's package manager Cargo is also pretty great. Another big claim to fame is Rust becoming the 2nd programming language used in the Linux Kernel.";
+const javaDesc = "All I will say about java is I had to learn it in college, and I am not the biggest fan of the language. ";
+
+const python = {name:"Python", desc:pyDesc};
+const javascript = {name:"JavaScript", desc:jsDesc};
+const posix = {name:"posix", desc:posixDesc};
+const c = {name:"C", desc:cDesc};
+const rust = {name:"Rust", desc:rsDesc};
+const java = {name:"Java", desc:javaDesc};
+
+const langs =[python, javascript, posix, c, rust, java];
+const specs = {
+    computer: "MacBook Pro with M2 Chip",
+    wm: "yabai with skhd",
+    terminal: "kitty",
+    editor: "neovim with lazyvim config",
+    shell: "zsh(oh-my-zsh)"
+  };
+
+---
+<BaseLayout pageTitle={pageTitle}>
+  <h2>My Computing Enviorment</h2>
+  <ul>
+    <li>Computer: {specs.computer}</li>
+    <li>Window Manager: {specs.wm}</li>
+    <li>Terminal: {specs.terminal}</li>
+    <li>Editor: {specs.editor}</li>
+    <li>Shell: {specs.shell}</li>
+  </ul>
+  <h2>Thoughts on Programming languages</h2>
+  <ul>
+    {langs.map((lang) => <Spec specName={lang.name} desc={lang.desc} />)}
+  </ul>
+</BaseLayout>
