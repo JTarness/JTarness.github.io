@@ -1,10 +1,11 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import '../styles/global.css';
-import { GoogleAnalytics } from 'astro-google-analytics';
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+import { GoogleAnalytics } from "astro-google-analytics";
 const { pageTitle } = Astro.props;
 ---
+
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -21,6 +22,5 @@ const { pageTitle } = Astro.props;
     <script>
       import "../scripts/menu.js";
     </script>
-  </body>
-  <Footer />
+  </body><Footer />
 </html>

@@ -4,7 +4,6 @@ html {
   color: #fff;
 }
 
-
 .dark .nav-links a {
   color: #fff;
 }
@@ -26,7 +25,7 @@ h1 {
   font-size: 2.5rem;
 }
 
-/* nav styles */ 
+/* nav styles */
 .hamburger {
   padding-right: 20px;
   cursor: pointer;
@@ -65,13 +64,12 @@ a {
   color: #fff;
 }
 
-
 .expand {
   display: unset;
 }
 
 @media screen and (min-width: 636px) {
-  .nav-links{
+  .nav-links {
     margin-left: 5em;
     display: block;
     position: static;
@@ -84,10 +82,7 @@ a {
     padding: 15px 20px;
   }
 
-
   .hamburger {
     display: none;
   }
-
-
 }
