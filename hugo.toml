@@ -21,7 +21,7 @@ theme = "terminal"
 
   showLastUpdated = false
 
-  Toc = true
+  Toc = false
 
 [languages]
   [language.en]
