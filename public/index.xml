@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on jtarness.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on jtarness.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lets start with some Gratitude</title>
+      <link>http://localhost:1313/blog/2024-11-27-lets-start-with-some-gratitude/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2024-11-27-lets-start-with-some-gratitude/</guid>
+      <description>&lt;h2 id=&#34;a-strong-start&#34;&gt;A strong start&lt;/h2&gt;
+&lt;p&gt;I would like to start my blog exactly how Meditations, the great personal journal of one of history&amp;rsquo;s greatest leaders Marcus Aurelius, by listing things I am grateful for. I know this may seem odd in today&amp;rsquo;s world of constant wanting, impotent flexing, and nonstop crying. Between a quarter to a third of young adults are depressed according to Gallup polls. While I understand this pain where things can always be better, they could always be worse as well. For the past 5 years I have been battling depression/suicidal thoughts until I started thinking of what I am grateful for. Gratitude is one of the things that helped me overcome this mental malaise. Below I will list what I am thankful for in no particular order. Hopefully this will help inspire you to challenge yourself into thinking what you are grateful for to get out any funk/rut.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;a-strong-start&#34;&gt;A strong start&lt;/h2&gt;
+&lt;p&gt;I would like to start my blog exactly how Meditations, the great personal journal of one of history&amp;rsquo;s greatest leaders Marcus Aurelius, by listing things I am grateful for. I know this may seem odd in today&amp;rsquo;s world of constant wanting, impotent flexing, and nonstop crying. Between a quarter to a third of young adults are depressed according to Gallup polls. While I understand this pain where things can always be better, they could always be worse as well. For the past 5 years I have been battling depression/suicidal thoughts until I started thinking of what I am grateful for. Gratitude is one of the things that helped me overcome this mental malaise. Below I will list what I am thankful for in no particular order. Hopefully this will help inspire you to challenge yourself into thinking what you are grateful for to get out any funk/rut.&lt;/p&gt;
+&lt;h2 id=&#34;what-i-am-grateful-for&#34;&gt;What I am grateful for&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;My father(Thomas) and my mother(Cynthia) have given me a great life and made me the man I am today.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My countless friends and family who laugh at my terrible jokes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Living in the United States of America, the greatest country on the planet despite it&amp;rsquo;s many current problems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I am blessed with my logical, mathematical, and technical intelligence.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The educational and early career opportunities.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tech/</guid>
+      <description>&lt;h1 id=&#34;my-computingdev-environment&#34;&gt;My Computing/Dev Environment&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer: MacBook Pro with M2 Chip&lt;/li&gt;
+&lt;li&gt;Window Manager: aerospace&lt;/li&gt;
+&lt;li&gt;Terminal: Kitty&lt;/li&gt;
+&lt;li&gt;Editor: LazyVim&lt;/li&gt;
+&lt;li&gt;Shell: zsh&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;thoughts-on-various-programming-languages&#34;&gt;Thoughts on various programming languages&lt;/h1&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;Python is my first and favorite programming language. I like it for any general use programs that I create (cmdline or gui).My main use for python like most people is data science. Python is great for getting data(request library/good api coverage), manipulating data(pandas dataframes/ builtin generators), visualizing(matplotlib),and creating machine learning/deep learning models(scikit-learn. pytorch, tensorflow).&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;my-computingdev-environment&#34;&gt;My Computing/Dev Environment&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer: MacBook Pro with M2 Chip&lt;/li&gt;
+&lt;li&gt;Window Manager: aerospace&lt;/li&gt;
+&lt;li&gt;Terminal: Kitty&lt;/li&gt;
+&lt;li&gt;Editor: LazyVim&lt;/li&gt;
+&lt;li&gt;Shell: zsh&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;thoughts-on-various-programming-languages&#34;&gt;Thoughts on various programming languages&lt;/h1&gt;
+&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;
+&lt;p&gt;Python is my first and favorite programming language. I like it for any general use programs that I create (cmdline or gui).My main use for python like most people is data science. Python is great for getting data(request library/good api coverage), manipulating data(pandas dataframes/ builtin generators), visualizing(matplotlib),and creating machine learning/deep learning models(scikit-learn. pytorch, tensorflow).&lt;/p&gt;
+&lt;h3 id=&#34;javascript&#34;&gt;JavaScript&lt;/h3&gt;
+&lt;p&gt;JavaScript is the language of the web, and should only be used as such. Since I do a good amount of web dev, I have become customer to it. It is a pretty divisive/controversial language, but I am extremely indifferent to it. In the browser or use as a front end it does its job well. My problem is when the language tries to expand to other areas in programming.&lt;/p&gt;
+&lt;h3 id=&#34;posix-shell-scripting&#34;&gt;Posix Shell Scripting&lt;/h3&gt;
+&lt;p&gt;My foundation in tech is in Linux, thus I&amp;rsquo;ve learned how create posix compliant scripts. Posix scripts are done in shell/bash/or even zsh which I prefer as my main command line shell. One of the reasons I love Linux and unix-like os&amp;rsquo;s is the automation power of different tasks. I always recommend novice programmers learn how use Linux and script in POSIX&lt;/p&gt;
+&lt;h3 id=&#34;c&#34;&gt;C&lt;/h3&gt;
+&lt;p&gt;I consider C the Latin of programming languages because C has influenced most of modern programming languages and programming itself. Anyone who seriously wants to become great at programming or get paid to program should know C. Learning C will help learn and understand other languages must easier.&lt;/p&gt;
+&lt;h3 id=&#34;rust&#34;&gt;Rust&lt;/h3&gt;
+&lt;p&gt;Rust is the hot new language and it definitely deserves the rep. It is a low level language that is dethroning C++ with rich memory safe features. Rust&amp;rsquo;s package manager Cargo is also pretty great. Another big claim to fame is Rust becoming the 2nd programming language used in the Linux Kernel.&lt;/p&gt;
+&lt;h3 id=&#34;java&#34;&gt;Java&lt;/h3&gt;
+&lt;p&gt;All I will say about java is I had to learn it in college, and I am not the biggest fan of the language.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

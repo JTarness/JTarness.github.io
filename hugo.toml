@@ -1,0 +1,55 @@
+baseURL = 'https://jtarness.com/'
+languageCode = 'en-us'
+title = 'jtarness.com'
+theme = "terminal"
+
+
+[params]
+  name = 'Jonathan Tarness'
+
+  contentTypeName = "blog"
+
+  showMenuItems = 2
+
+  showLanguageSelector = false
+
+  fullWidthTheme = true
+
+  centerTheme = false
+
+  #autoCover = true
+
+  showLastUpdated = false
+
+  Toc = true
+
+[languages]
+  [language.en]
+    languageName = "English"
+    title = "jtarness.com"
+    [languages.en.params]
+      subtitle = "My blog site"
+      owner = "Jonathan Tarness"
+      keywords = "Jonathan Tarness"
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+
+      [languages.en.params.logo]
+        logoText = "jtarness.com"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "tech"
+          name = "Tarness Tech"
+          url = "/tech"
+          weight = 1
+        [[languages.en.menu.main]]
+          identifier = "blog"
+          name = "Blog"
+          url = "/blog"
+          weight = 1
